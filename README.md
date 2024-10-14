@@ -4,6 +4,8 @@ An interactive web-based Etch-A-Sketch application that allows users to create c
 
 ## Live Demo
 
+![etchsketch](https://github.com/user-attachments/assets/2fbff337-9280-40c7-aeae-0c28a5adda2b)
+
 Try the Etch-A-Sketch here: [Etch-A-Sketch Demo](https://sehundpark.github.io/etch-a-sketch/)
 
 ## Features
