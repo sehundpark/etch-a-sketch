@@ -1,6 +1,6 @@
 # Etch-A-Sketch
 
-An interactive web-based Etch-A-Sketch application that allows users to create colorful pixel art by hovering over a grid. This project is built using HTML, CSS, and JavaScript.
+Etch-A-Sketch is a web-based drawing application built with HTML, CSS, and JavaScript. It features a customizable grid where users can create colorful designs by hovering over cells. The app demonstrates DOM manipulation, event handling, and responsive design techniques in front-end web development.
 
 ## Live Demo
 
